@@ -1,0 +1,37 @@
+#fun {
+    background-color: hwb(53 0% 24%);
+}
+/* Navbar */
+.navbar {
+    padding: 0 0 4.5rem;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2.5rem;
+    font-family: 'Playfair Display', serif;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+}
+
+/* Carousel */
+#imagecarousel {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: hwb(53 0% 24%);
+}
+
+.carouselimage {
+    width: 10%;
+    border-radius: 20%;
+    margin: 10px;}
+
+#AboutMe {
+    background-color: #ffffbf;}
+
+#portfolio {
+    background-color: hsl(60, 100%, 40%);}
